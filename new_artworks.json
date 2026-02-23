@@ -1,0 +1,222 @@
+[
+  {
+    "id": "other-media",
+    "slug": "other-media-art",
+    "title": "Other Media Artwork",
+    "year": 2024,
+    "medium": "other-media",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Other Media.",
+    "collection": "other-media",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/D1ED2183-32BA-4F42-B1A8-6C933C98F637.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Other Media"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "other-media"
+    ]
+  },
+  {
+    "id": "oils-and-acrylics",
+    "slug": "oils-acrylics-art",
+    "title": "Oils and Acrylics Artwork",
+    "year": 2024,
+    "medium": "oils-and-acrylics",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Oils and Acrylics.",
+    "collection": "oils-and-acrylics",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/F0F2B244-9FEF-41D3-90B4-6650644CB610_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Oils and Acrylics"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "oils-and-acrylics"
+    ]
+  },
+  {
+    "id": "calligraphy",
+    "slug": "calligraphy-2-art",
+    "title": "Calligraphy Artwork",
+    "year": 2024,
+    "medium": "calligraphy",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Calligraphy.",
+    "collection": "calligraphy",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/EBFA4D67-CABA-40ED-B9FD-BFBCD1A7CFBF_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Calligraphy"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "calligraphy"
+    ]
+  },
+  {
+    "id": "water-colors",
+    "slug": "watercolors-2-art",
+    "title": "Water Colors Artwork",
+    "year": 2024,
+    "medium": "water-colors",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Water Colors.",
+    "collection": "water-colors",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/EC330E78-6570-462C-ABD8-A14A348B84A9.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Water Colors"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "water-colors"
+    ]
+  },
+  {
+    "id": "sketching",
+    "slug": "sketching-2-art",
+    "title": "Sketching Artwork",
+    "year": 2024,
+    "medium": "sketching",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Sketching.",
+    "collection": "sketching",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/F16F25BA-457A-499E-A0C6-FF45CA7062CB.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Sketching"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "sketching"
+    ]
+  },
+  {
+    "id": "pastels",
+    "slug": "pastels-2-art",
+    "title": "Pastels Artwork",
+    "year": 2024,
+    "medium": "pastels",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Pastels.",
+    "collection": "pastels",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/0823E7D7-353C-4378-9FF0-E85DCE900E5F.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Pastels"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "pastels"
+    ]
+  },
+  {
+    "id": "color-pencils",
+    "slug": "color-pencils-2-art",
+    "title": "Color Pencils Artwork",
+    "year": 2024,
+    "medium": "color-pencils",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Color Pencils.",
+    "collection": "color-pencils",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/IMG_6909.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Color Pencils"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "color-pencils"
+    ]
+  },
+  {
+    "id": "book-covers",
+    "slug": "book-covers-art",
+    "title": "Book Covers Artwork",
+    "year": 2024,
+    "medium": "book-covers",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Book Covers.",
+    "collection": "book-covers",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2019/07/IWO-BookCover_Front-Less-than-100-KB.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Book Covers"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "book-covers"
+    ]
+  },
+  {
+    "id": "book-illustrations",
+    "slug": "book-illustrations-art",
+    "title": "Book Illustrations Artwork",
+    "year": 2024,
+    "medium": "book-illustrations",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Book Illustrations.",
+    "collection": "book-illustrations",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2019/07/btmw-Chapter800x1016.jpeg?lossy=1&strip=1&webp=1",
+        "alt": "Book Illustrations"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "book-illustrations"
+    ]
+  },
+  {
+    "id": "wanderlust",
+    "slug": "wanderlust-art",
+    "title": "Wanderlust Artwork",
+    "year": 2024,
+    "medium": "wanderlust",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Wanderlust.",
+    "collection": "wanderlust",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2025/09/IMG_8276.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Wanderlust"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "wanderlust"
+    ]
+  }
+]

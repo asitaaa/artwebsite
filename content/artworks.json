@@ -1,0 +1,2532 @@
+[
+  {
+    "id": "other-media",
+    "slug": "other-media-art",
+    "title": "Other Media Artwork",
+    "year": 2024,
+    "medium": "other-media",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Other Media.",
+    "collection": "other-media",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/Other-Media.jpeg?lossy=1&strip=1&webp=1",
+        "alt": "Other Media"
+      }
+    ],
+    "availability": "not-for-sale",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "other-media"
+    ]
+  },
+  {
+    "id": "101",
+    "slug": "other-media-art-2",
+    "title": "Other Media Artwork 2",
+    "year": 2024,
+    "medium": "other-media",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Other Media.",
+    "collection": "other-media",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/CDF29E83-B76E-4011-84D7-6EE426BB6E6F.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Other Media"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "other-media"
+    ]
+  },
+  {
+    "id": "102",
+    "slug": "other-media-art-3",
+    "title": "Other Media Artwork 3",
+    "year": 2024,
+    "medium": "other-media",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Other Media.",
+    "collection": "other-media",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/565208CF-19A7-4884-9B32-B101680904E6.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Other Media"
+      }
+    ],
+    "availability": "sold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "other-media"
+    ]
+  },
+  {
+    "id": "103",
+    "slug": "other-media-art-4",
+    "title": "Other Media Artwork 4",
+    "year": 2024,
+    "medium": "other-media",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Other Media.",
+    "collection": "other-media",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/73BF5FE7-A123-47E2-A408-A2248252AF32.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Other Media"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "other-media"
+    ]
+  },
+  {
+    "id": "104",
+    "slug": "oils-and-acrylics-art-1",
+    "title": "Oils and Acrylics Artwork 1",
+    "year": 2024,
+    "medium": "oils-and-acrylics",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Oils and Acrylics.",
+    "collection": "oils-and-acrylics",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/F0F2B244-9FEF-41D3-90B4-6650644CB610_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Oils and Acrylics"
+      }
+    ],
+    "availability": "not-for-sale",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "oils-and-acrylics"
+    ]
+  },
+  {
+    "id": "105",
+    "slug": "oils-and-acrylics-art-2",
+    "title": "Oils and Acrylics Artwork 2",
+    "year": 2024,
+    "medium": "oils-and-acrylics",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Oils and Acrylics.",
+    "collection": "oils-and-acrylics",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/EE8405CE-C4D0-45DA-8F89-5FD75D1F1FEF_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Oils and Acrylics"
+      }
+    ],
+    "availability": "sold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "oils-and-acrylics"
+    ]
+  },
+  {
+    "id": "106",
+    "slug": "oils-and-acrylics-art-3",
+    "title": "Oils and Acrylics Artwork 3",
+    "year": 2024,
+    "medium": "oils-and-acrylics",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Oils and Acrylics.",
+    "collection": "oils-and-acrylics",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/4093AA70-D108-4BAF-9E86-6A8CA0EB9FB1_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Oils and Acrylics"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "oils-and-acrylics"
+    ]
+  },
+  {
+    "id": "107",
+    "slug": "oils-and-acrylics-art-4",
+    "title": "Oils and Acrylics Artwork 4",
+    "year": 2024,
+    "medium": "oils-and-acrylics",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Oils and Acrylics.",
+    "collection": "oils-and-acrylics",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/452FA17B-8061-42ED-9136-7C1A56B4CD5B_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Oils and Acrylics"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "oils-and-acrylics"
+    ]
+  },
+  {
+    "id": "108",
+    "slug": "oils-and-acrylics-art-5",
+    "title": "Oils and Acrylics Artwork 5",
+    "year": 2024,
+    "medium": "oils-and-acrylics",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Oils and Acrylics.",
+    "collection": "oils-and-acrylics",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/73EA8C3F-5312-46BC-BCFA-55C4CCB5CD09_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Oils and Acrylics"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "oils-and-acrylics"
+    ]
+  },
+  {
+    "id": "109",
+    "slug": "oils-and-acrylics-art-6",
+    "title": "Oils and Acrylics Artwork 6",
+    "year": 2024,
+    "medium": "oils-and-acrylics",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Oils and Acrylics.",
+    "collection": "oils-and-acrylics",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/18FDAF7F-503A-4D66-AACE-13C2711FB725_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Oils and Acrylics"
+      }
+    ],
+    "availability": "on-hold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "oils-and-acrylics"
+    ]
+  },
+  {
+    "id": "110",
+    "slug": "oils-and-acrylics-art-7",
+    "title": "Oils and Acrylics Artwork 7",
+    "year": 2024,
+    "medium": "oils-and-acrylics",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Oils and Acrylics.",
+    "collection": "oils-and-acrylics",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/4AA6E890-B761-4A9B-AB64-057E2E8812B4_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Oils and Acrylics"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "oils-and-acrylics"
+    ]
+  },
+  {
+    "id": "111",
+    "slug": "oils-and-acrylics-art-8",
+    "title": "Oils and Acrylics Artwork 8",
+    "year": 2024,
+    "medium": "oils-and-acrylics",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Oils and Acrylics.",
+    "collection": "oils-and-acrylics",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/3A88F2F7-58FF-4816-81E7-044E75B1D0FA_1_201_a.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Oils and Acrylics"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "oils-and-acrylics"
+    ]
+  },
+  {
+    "id": "112",
+    "slug": "oils-and-acrylics-art-9",
+    "title": "Oils and Acrylics Artwork 9",
+    "year": 2024,
+    "medium": "oils-and-acrylics",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Oils and Acrylics.",
+    "collection": "oils-and-acrylics",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/2C61E523-582E-48D8-870B-4B630F26FA95_1_201_a.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Oils and Acrylics"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "oils-and-acrylics"
+    ]
+  },
+  {
+    "id": "113",
+    "slug": "oils-and-acrylics-art-10",
+    "title": "Oils and Acrylics Artwork 10",
+    "year": 2024,
+    "medium": "oils-and-acrylics",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Oils and Acrylics.",
+    "collection": "oils-and-acrylics",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/acrylic-painting.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Oils and Acrylics"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "oils-and-acrylics"
+    ]
+  },
+  {
+    "id": "114",
+    "slug": "calligraphy-art-1",
+    "title": "Calligraphy Artwork 1",
+    "year": 2024,
+    "medium": "calligraphy",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Calligraphy.",
+    "collection": "calligraphy",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/EBFA4D67-CABA-40ED-B9FD-BFBCD1A7CFBF_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Calligraphy"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "calligraphy"
+    ]
+  },
+  {
+    "id": "115",
+    "slug": "calligraphy-art-2",
+    "title": "Calligraphy Artwork 2",
+    "year": 2024,
+    "medium": "calligraphy",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Calligraphy.",
+    "collection": "calligraphy",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/D33CB5D1-5D40-47AD-916D-B3142C35555B.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Calligraphy"
+      }
+    ],
+    "availability": "sold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "calligraphy"
+    ]
+  },
+  {
+    "id": "116",
+    "slug": "calligraphy-art-3",
+    "title": "Calligraphy Artwork 3",
+    "year": 2024,
+    "medium": "calligraphy",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Calligraphy.",
+    "collection": "calligraphy",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/CC36BC3D-E298-46E9-A6CE-FA545B8A2B2F.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Calligraphy"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "calligraphy"
+    ]
+  },
+  {
+    "id": "117",
+    "slug": "calligraphy-art-4",
+    "title": "Calligraphy Artwork 4",
+    "year": 2024,
+    "medium": "calligraphy",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Calligraphy.",
+    "collection": "calligraphy",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/AE9166C9-4791-4AD6-BE0E-C978C48D4621.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Calligraphy"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "calligraphy"
+    ]
+  },
+  {
+    "id": "118",
+    "slug": "calligraphy-art-5",
+    "title": "Calligraphy Artwork 5",
+    "year": 2024,
+    "medium": "calligraphy",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Calligraphy.",
+    "collection": "calligraphy",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/AB9FA60B-0DFC-435A-BBCA-4F2AD7E5F7C7_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Calligraphy"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "calligraphy"
+    ]
+  },
+  {
+    "id": "119",
+    "slug": "calligraphy-art-6",
+    "title": "Calligraphy Artwork 6",
+    "year": 2024,
+    "medium": "calligraphy",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Calligraphy.",
+    "collection": "calligraphy",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/69431386-2557-41DD-8B68-8449171E5FC4.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Calligraphy"
+      }
+    ],
+    "availability": "not-for-sale",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "calligraphy"
+    ]
+  },
+  {
+    "id": "120",
+    "slug": "calligraphy-art-7",
+    "title": "Calligraphy Artwork 7",
+    "year": 2024,
+    "medium": "calligraphy",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Calligraphy.",
+    "collection": "calligraphy",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/43140564-2991-4DC0-97B8-11C0F19FCA9B_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Calligraphy"
+      }
+    ],
+    "availability": "sold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "calligraphy"
+    ]
+  },
+  {
+    "id": "121",
+    "slug": "calligraphy-art-8",
+    "title": "Calligraphy Artwork 8",
+    "year": 2024,
+    "medium": "calligraphy",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Calligraphy.",
+    "collection": "calligraphy",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/8D277D48-49CE-4D34-A1AB-21FCE36A43C2.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Calligraphy"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "calligraphy"
+    ]
+  },
+  {
+    "id": "122",
+    "slug": "calligraphy-art-9",
+    "title": "Calligraphy Artwork 9",
+    "year": 2024,
+    "medium": "calligraphy",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Calligraphy.",
+    "collection": "calligraphy",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/5BDD43B8-EFDD-4774-8005-BB84C035DCC2_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Calligraphy"
+      }
+    ],
+    "availability": "sold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "calligraphy"
+    ]
+  },
+  {
+    "id": "123",
+    "slug": "calligraphy-art-10",
+    "title": "Calligraphy Artwork 10",
+    "year": 2024,
+    "medium": "calligraphy",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Calligraphy.",
+    "collection": "calligraphy",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/5B9A7F2D-D85A-49D2-8C7B-0EC2B036E279.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Calligraphy"
+      }
+    ],
+    "availability": "on-hold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "calligraphy"
+    ]
+  },
+  {
+    "id": "124",
+    "slug": "calligraphy-art-11",
+    "title": "Calligraphy Artwork 11",
+    "year": 2024,
+    "medium": "calligraphy",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Calligraphy.",
+    "collection": "calligraphy",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/3F53EAC8-C18B-4F1B-A310-D1C27B2352A2.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Calligraphy"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "calligraphy"
+    ]
+  },
+  {
+    "id": "125",
+    "slug": "calligraphy-art-12",
+    "title": "Calligraphy Artwork 12",
+    "year": 2024,
+    "medium": "calligraphy",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Calligraphy.",
+    "collection": "calligraphy",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/1A7819F4-5A99-4803-A62E-A647955E45EA.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Calligraphy"
+      }
+    ],
+    "availability": "on-hold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "calligraphy"
+    ]
+  },
+  {
+    "id": "126",
+    "slug": "calligraphy-art-13",
+    "title": "Calligraphy Artwork 13",
+    "year": 2024,
+    "medium": "calligraphy",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Calligraphy.",
+    "collection": "calligraphy",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/0F07E405-3748-48F1-915A-9837D8BEBDF7.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Calligraphy"
+      }
+    ],
+    "availability": "on-hold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "calligraphy"
+    ]
+  },
+  {
+    "id": "127",
+    "slug": "calligraphy-art-14",
+    "title": "Calligraphy Artwork 14",
+    "year": 2024,
+    "medium": "calligraphy",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Calligraphy.",
+    "collection": "calligraphy",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/calligraphy.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Calligraphy"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "calligraphy"
+    ]
+  },
+  {
+    "id": "128",
+    "slug": "water-colors-art-1",
+    "title": "Water Colors Artwork 1",
+    "year": 2024,
+    "medium": "water-colors",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Water Colors.",
+    "collection": "water-colors",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/EC330E78-6570-462C-ABD8-A14A348B84A9.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Water Colors"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "water-colors"
+    ]
+  },
+  {
+    "id": "129",
+    "slug": "water-colors-art-2",
+    "title": "Water Colors Artwork 2",
+    "year": 2024,
+    "medium": "water-colors",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Water Colors.",
+    "collection": "water-colors",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/E2ED641C-CF7C-4041-9B8C-8C7A7948A84C.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Water Colors"
+      }
+    ],
+    "availability": "not-for-sale",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "water-colors"
+    ]
+  },
+  {
+    "id": "130",
+    "slug": "water-colors-art-3",
+    "title": "Water Colors Artwork 3",
+    "year": 2024,
+    "medium": "water-colors",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Water Colors.",
+    "collection": "water-colors",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/D2732557-C599-4429-BEEB-2F0CD2464D0D.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Water Colors"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "water-colors"
+    ]
+  },
+  {
+    "id": "131",
+    "slug": "water-colors-art-4",
+    "title": "Water Colors Artwork 4",
+    "year": 2024,
+    "medium": "water-colors",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Water Colors.",
+    "collection": "water-colors",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/C5C3669F-6EF5-4A6B-A686-80362FBE5560.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Water Colors"
+      }
+    ],
+    "availability": "sold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "water-colors"
+    ]
+  },
+  {
+    "id": "132",
+    "slug": "water-colors-art-5",
+    "title": "Water Colors Artwork 5",
+    "year": 2024,
+    "medium": "water-colors",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Water Colors.",
+    "collection": "water-colors",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/AFC27C4F-B4B4-4103-84E6-ADC5864B68F4.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Water Colors"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "water-colors"
+    ]
+  },
+  {
+    "id": "133",
+    "slug": "water-colors-art-6",
+    "title": "Water Colors Artwork 6",
+    "year": 2024,
+    "medium": "water-colors",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Water Colors.",
+    "collection": "water-colors",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/A6133FD5-C0EE-4DCB-91A3-67ABCF747DCA.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Water Colors"
+      }
+    ],
+    "availability": "not-for-sale",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "water-colors"
+    ]
+  },
+  {
+    "id": "134",
+    "slug": "water-colors-art-7",
+    "title": "Water Colors Artwork 7",
+    "year": 2024,
+    "medium": "water-colors",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Water Colors.",
+    "collection": "water-colors",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/605E637A-77D4-46C9-914D-ADC15533F562.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Water Colors"
+      }
+    ],
+    "availability": "on-hold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "water-colors"
+    ]
+  },
+  {
+    "id": "135",
+    "slug": "water-colors-art-8",
+    "title": "Water Colors Artwork 8",
+    "year": 2024,
+    "medium": "water-colors",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Water Colors.",
+    "collection": "water-colors",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/11DCF591-F0B7-431F-9A30-955376228603.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Water Colors"
+      }
+    ],
+    "availability": "not-for-sale",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "water-colors"
+    ]
+  },
+  {
+    "id": "136",
+    "slug": "water-colors-art-9",
+    "title": "Water Colors Artwork 9",
+    "year": 2024,
+    "medium": "water-colors",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Water Colors.",
+    "collection": "water-colors",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/7B37B76A-72FA-43EA-944D-B645264C68A6.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Water Colors"
+      }
+    ],
+    "availability": "on-hold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "water-colors"
+    ]
+  },
+  {
+    "id": "137",
+    "slug": "water-colors-art-10",
+    "title": "Water Colors Artwork 10",
+    "year": 2024,
+    "medium": "water-colors",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Water Colors.",
+    "collection": "water-colors",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/1FA54892-204C-4547-896F-35A16D182C1A.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Water Colors"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "water-colors"
+    ]
+  },
+  {
+    "id": "138",
+    "slug": "water-colors-art-11",
+    "title": "Water Colors Artwork 11",
+    "year": 2024,
+    "medium": "water-colors",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Water Colors.",
+    "collection": "water-colors",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/01A1822C-00D5-492F-87AA-BDC53783BF27.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Water Colors"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "water-colors"
+    ]
+  },
+  {
+    "id": "139",
+    "slug": "water-colors-art-12",
+    "title": "Water Colors Artwork 12",
+    "year": 2024,
+    "medium": "water-colors",
+    "dimensions": "Variable",
+    "description": "A lovely piece of Water Colors.",
+    "collection": "water-colors",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2021/11/rotated_Page_02-scaled-e1637518981151.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Water Colors"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "water-colors"
+    ]
+  },
+  {
+    "id": "140",
+    "slug": "sketching-art-1",
+    "title": "Sketching Artwork 1",
+    "year": 2024,
+    "medium": "sketching",
+    "dimensions": "Variable",
+    "description": "A piece from the Sketching collection.",
+    "collection": "sketching",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/F16F25BA-457A-499E-A0C6-FF45CA7062CB.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Sketching"
+      }
+    ],
+    "availability": "on-hold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "sketching"
+    ]
+  },
+  {
+    "id": "141",
+    "slug": "sketching-art-2",
+    "title": "Sketching Artwork 2",
+    "year": 2024,
+    "medium": "sketching",
+    "dimensions": "Variable",
+    "description": "A piece from the Sketching collection.",
+    "collection": "sketching",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/F5F90186-EC26-4E1B-9E47-78B9287270B8.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Sketching"
+      }
+    ],
+    "availability": "not-for-sale",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "sketching"
+    ]
+  },
+  {
+    "id": "142",
+    "slug": "sketching-art-3",
+    "title": "Sketching Artwork 3",
+    "year": 2024,
+    "medium": "sketching",
+    "dimensions": "Variable",
+    "description": "A piece from the Sketching collection.",
+    "collection": "sketching",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/F0A7D012-276A-4B6C-88BD-7B212FC3A93E.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Sketching"
+      }
+    ],
+    "availability": "not-for-sale",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "sketching"
+    ]
+  },
+  {
+    "id": "143",
+    "slug": "sketching-art-4",
+    "title": "Sketching Artwork 4",
+    "year": 2024,
+    "medium": "sketching",
+    "dimensions": "Variable",
+    "description": "A piece from the Sketching collection.",
+    "collection": "sketching",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/D8C88D6C-9BF6-404C-8B77-0E1C38219963.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Sketching"
+      }
+    ],
+    "availability": "not-for-sale",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "sketching"
+    ]
+  },
+  {
+    "id": "144",
+    "slug": "sketching-art-5",
+    "title": "Sketching Artwork 5",
+    "year": 2024,
+    "medium": "sketching",
+    "dimensions": "Variable",
+    "description": "A piece from the Sketching collection.",
+    "collection": "sketching",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/CE028BBB-A322-4017-BD18-9863F25E5428-1.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Sketching"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "sketching"
+    ]
+  },
+  {
+    "id": "145",
+    "slug": "sketching-art-6",
+    "title": "Sketching Artwork 6",
+    "year": 2024,
+    "medium": "sketching",
+    "dimensions": "Variable",
+    "description": "A piece from the Sketching collection.",
+    "collection": "sketching",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/CB1AFA91-C3BB-444D-89D3-B7B7A60EF183.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Sketching"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "sketching"
+    ]
+  },
+  {
+    "id": "146",
+    "slug": "sketching-art-7",
+    "title": "Sketching Artwork 7",
+    "year": 2024,
+    "medium": "sketching",
+    "dimensions": "Variable",
+    "description": "A piece from the Sketching collection.",
+    "collection": "sketching",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/C9F46C82-4F28-417B-BBEE-661C454919D6.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Sketching"
+      }
+    ],
+    "availability": "on-hold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "sketching"
+    ]
+  },
+  {
+    "id": "147",
+    "slug": "sketching-art-8",
+    "title": "Sketching Artwork 8",
+    "year": 2024,
+    "medium": "sketching",
+    "dimensions": "Variable",
+    "description": "A piece from the Sketching collection.",
+    "collection": "sketching",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/B8045334-CE31-416E-B5D7-DD3370BDEF0D.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Sketching"
+      }
+    ],
+    "availability": "sold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "sketching"
+    ]
+  },
+  {
+    "id": "148",
+    "slug": "sketching-art-9",
+    "title": "Sketching Artwork 9",
+    "year": 2024,
+    "medium": "sketching",
+    "dimensions": "Variable",
+    "description": "A piece from the Sketching collection.",
+    "collection": "sketching",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/B07E7EDB-BA0B-4CAE-8052-0F6B1F5FD97A.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Sketching"
+      }
+    ],
+    "availability": "sold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "sketching"
+    ]
+  },
+  {
+    "id": "149",
+    "slug": "sketching-art-10",
+    "title": "Sketching Artwork 10",
+    "year": 2024,
+    "medium": "sketching",
+    "dimensions": "Variable",
+    "description": "A piece from the Sketching collection.",
+    "collection": "sketching",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/ABE55ACB-5CFF-416A-BE67-4401597E8E1B.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Sketching"
+      }
+    ],
+    "availability": "sold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "sketching"
+    ]
+  },
+  {
+    "id": "150",
+    "slug": "sketching-art-11",
+    "title": "Sketching Artwork 11",
+    "year": 2024,
+    "medium": "sketching",
+    "dimensions": "Variable",
+    "description": "A piece from the Sketching collection.",
+    "collection": "sketching",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/9856DBE4-9A72-4068-84AD-B6E6A3463884.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Sketching"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "sketching"
+    ]
+  },
+  {
+    "id": "151",
+    "slug": "sketching-art-12",
+    "title": "Sketching Artwork 12",
+    "year": 2024,
+    "medium": "sketching",
+    "dimensions": "Variable",
+    "description": "A piece from the Sketching collection.",
+    "collection": "sketching",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/381BD5D6-E5A0-4F21-935C-B1F81866617B.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Sketching"
+      }
+    ],
+    "availability": "sold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "sketching"
+    ]
+  },
+  {
+    "id": "152",
+    "slug": "sketching-art-13",
+    "title": "Sketching Artwork 13",
+    "year": 2024,
+    "medium": "sketching",
+    "dimensions": "Variable",
+    "description": "A piece from the Sketching collection.",
+    "collection": "sketching",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/47FB84D0-4DB8-4929-98E5-50DA9EDDF289.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Sketching"
+      }
+    ],
+    "availability": "on-hold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "sketching"
+    ]
+  },
+  {
+    "id": "153",
+    "slug": "sketching-art-14",
+    "title": "Sketching Artwork 14",
+    "year": 2024,
+    "medium": "sketching",
+    "dimensions": "Variable",
+    "description": "A piece from the Sketching collection.",
+    "collection": "sketching",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/9EBE7A54-CD0F-40AB-8182-EDCD350410A9.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Sketching"
+      }
+    ],
+    "availability": "sold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "sketching"
+    ]
+  },
+  {
+    "id": "154",
+    "slug": "sketching-art-15",
+    "title": "Sketching Artwork 15",
+    "year": 2024,
+    "medium": "sketching",
+    "dimensions": "Variable",
+    "description": "A piece from the Sketching collection.",
+    "collection": "sketching",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/1EB842BE-29B4-4776-AFD1-DB394CF462CF.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Sketching"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "sketching"
+    ]
+  },
+  {
+    "id": "155",
+    "slug": "pastels-art-1",
+    "title": "Pastels Artwork 1",
+    "year": 2024,
+    "medium": "pastels",
+    "dimensions": "Variable",
+    "description": "A piece from the Pastels collection.",
+    "collection": "pastels",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/0823E7D7-353C-4378-9FF0-E85DCE900E5F.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Pastels"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "pastels"
+    ]
+  },
+  {
+    "id": "156",
+    "slug": "pastels-art-2",
+    "title": "Pastels Artwork 2",
+    "year": 2024,
+    "medium": "pastels",
+    "dimensions": "Variable",
+    "description": "A piece from the Pastels collection.",
+    "collection": "pastels",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/115B4D46-7E88-44CB-8E8D-44B837B50F77.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Pastels"
+      }
+    ],
+    "availability": "sold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "pastels"
+    ]
+  },
+  {
+    "id": "157",
+    "slug": "color-pencils-art-1",
+    "title": "Color Pencils Artwork 1",
+    "year": 2024,
+    "medium": "color-pencils",
+    "dimensions": "Variable",
+    "description": "A piece from the Color Pencils collection.",
+    "collection": "color-pencils",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/IMG_6909.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Color Pencils"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "color-pencils"
+    ]
+  },
+  {
+    "id": "158",
+    "slug": "color-pencils-art-2",
+    "title": "Color Pencils Artwork 2",
+    "year": 2024,
+    "medium": "color-pencils",
+    "dimensions": "Variable",
+    "description": "A piece from the Color Pencils collection.",
+    "collection": "color-pencils",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/E703CA22-01EA-4327-B2EB-C19D464FD6B2_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Color Pencils"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "color-pencils"
+    ]
+  },
+  {
+    "id": "159",
+    "slug": "color-pencils-art-3",
+    "title": "Color Pencils Artwork 3",
+    "year": 2024,
+    "medium": "color-pencils",
+    "dimensions": "Variable",
+    "description": "A piece from the Color Pencils collection.",
+    "collection": "color-pencils",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/CE028BBB-A322-4017-BD18-9863F25E5428.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Color Pencils"
+      }
+    ],
+    "availability": "not-for-sale",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "color-pencils"
+    ]
+  },
+  {
+    "id": "160",
+    "slug": "color-pencils-art-4",
+    "title": "Color Pencils Artwork 4",
+    "year": 2024,
+    "medium": "color-pencils",
+    "dimensions": "Variable",
+    "description": "A piece from the Color Pencils collection.",
+    "collection": "color-pencils",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/ABE32D90-6C7A-4CC6-A4F0-35E1B9A7EA74_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Color Pencils"
+      }
+    ],
+    "availability": "not-for-sale",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "color-pencils"
+    ]
+  },
+  {
+    "id": "161",
+    "slug": "color-pencils-art-5",
+    "title": "Color Pencils Artwork 5",
+    "year": 2024,
+    "medium": "color-pencils",
+    "dimensions": "Variable",
+    "description": "A piece from the Color Pencils collection.",
+    "collection": "color-pencils",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/6DADE91D-07CF-49FA-8588-DB52C5A2795F_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Color Pencils"
+      }
+    ],
+    "availability": "sold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "color-pencils"
+    ]
+  },
+  {
+    "id": "162",
+    "slug": "color-pencils-art-6",
+    "title": "Color Pencils Artwork 6",
+    "year": 2024,
+    "medium": "color-pencils",
+    "dimensions": "Variable",
+    "description": "A piece from the Color Pencils collection.",
+    "collection": "color-pencils",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/fabric-box.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Color Pencils"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "color-pencils"
+    ]
+  },
+  {
+    "id": "163",
+    "slug": "color-pencils-art-7",
+    "title": "Color Pencils Artwork 7",
+    "year": 2024,
+    "medium": "color-pencils",
+    "dimensions": "Variable",
+    "description": "A piece from the Color Pencils collection.",
+    "collection": "color-pencils",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/12530BE8-7D40-4E09-A6CF-DEE22CD5092D_1_201_a.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Color Pencils"
+      }
+    ],
+    "availability": "not-for-sale",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "color-pencils"
+    ]
+  },
+  {
+    "id": "164",
+    "slug": "color-pencils-art-8",
+    "title": "Color Pencils Artwork 8",
+    "year": 2024,
+    "medium": "color-pencils",
+    "dimensions": "Variable",
+    "description": "A piece from the Color Pencils collection.",
+    "collection": "color-pencils",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/8223B115-CD82-463D-8C7B-599FDEE1F648_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Color Pencils"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "color-pencils"
+    ]
+  },
+  {
+    "id": "165",
+    "slug": "color-pencils-art-9",
+    "title": "Color Pencils Artwork 9",
+    "year": 2024,
+    "medium": "color-pencils",
+    "dimensions": "Variable",
+    "description": "A piece from the Color Pencils collection.",
+    "collection": "color-pencils",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/9F48CFF2-FF07-499A-B9C9-66FDD01FCD20_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Color Pencils"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "color-pencils"
+    ]
+  },
+  {
+    "id": "166",
+    "slug": "color-pencils-art-10",
+    "title": "Color Pencils Artwork 10",
+    "year": 2024,
+    "medium": "color-pencils",
+    "dimensions": "Variable",
+    "description": "A piece from the Color Pencils collection.",
+    "collection": "color-pencils",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/04/sachin.jpeg?lossy=1&strip=1&webp=1",
+        "alt": "Color Pencils"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "color-pencils"
+    ]
+  },
+  {
+    "id": "167",
+    "slug": "100-day-project-art-1",
+    "title": "100 Day Project Artwork 1",
+    "year": 2024,
+    "medium": "100-day-project",
+    "dimensions": "Variable",
+    "description": "A piece from the 100 Day Project collection.",
+    "collection": "100-day-project",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/F735C3A7-15CE-44FF-8728-363698F40DCD_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "100 Day Project"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "100-day-project"
+    ]
+  },
+  {
+    "id": "168",
+    "slug": "100-day-project-art-2",
+    "title": "100 Day Project Artwork 2",
+    "year": 2024,
+    "medium": "100-day-project",
+    "dimensions": "Variable",
+    "description": "A piece from the 100 Day Project collection.",
+    "collection": "100-day-project",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/F355DD92-E0AD-49B8-B3E8-961ED0357C12_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "100 Day Project"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "100-day-project"
+    ]
+  },
+  {
+    "id": "169",
+    "slug": "100-day-project-art-3",
+    "title": "100 Day Project Artwork 3",
+    "year": 2024,
+    "medium": "100-day-project",
+    "dimensions": "Variable",
+    "description": "A piece from the 100 Day Project collection.",
+    "collection": "100-day-project",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/E76D0926-9A1F-4E9C-81EF-56E35413257A_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "100 Day Project"
+      }
+    ],
+    "availability": "on-hold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "100-day-project"
+    ]
+  },
+  {
+    "id": "170",
+    "slug": "100-day-project-art-4",
+    "title": "100 Day Project Artwork 4",
+    "year": 2024,
+    "medium": "100-day-project",
+    "dimensions": "Variable",
+    "description": "A piece from the 100 Day Project collection.",
+    "collection": "100-day-project",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/CE6BF92C-CA74-4B05-AEFB-D73CCE72E70C_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "100 Day Project"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "100-day-project"
+    ]
+  },
+  {
+    "id": "171",
+    "slug": "100-day-project-art-5",
+    "title": "100 Day Project Artwork 5",
+    "year": 2024,
+    "medium": "100-day-project",
+    "dimensions": "Variable",
+    "description": "A piece from the 100 Day Project collection.",
+    "collection": "100-day-project",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/C4C1CC92-D292-4357-9EBE-3DD7279B182A_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "100 Day Project"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "100-day-project"
+    ]
+  },
+  {
+    "id": "172",
+    "slug": "100-day-project-art-6",
+    "title": "100 Day Project Artwork 6",
+    "year": 2024,
+    "medium": "100-day-project",
+    "dimensions": "Variable",
+    "description": "A piece from the 100 Day Project collection.",
+    "collection": "100-day-project",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/AADAFEBF-C2DC-4B75-BD56-7BE91577CEC8_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "100 Day Project"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "100-day-project"
+    ]
+  },
+  {
+    "id": "173",
+    "slug": "100-day-project-art-7",
+    "title": "100 Day Project Artwork 7",
+    "year": 2024,
+    "medium": "100-day-project",
+    "dimensions": "Variable",
+    "description": "A piece from the 100 Day Project collection.",
+    "collection": "100-day-project",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/A61271D9-1FED-49FF-8472-8576A3674C0E_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "100 Day Project"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "100-day-project"
+    ]
+  },
+  {
+    "id": "174",
+    "slug": "100-day-project-art-8",
+    "title": "100 Day Project Artwork 8",
+    "year": 2024,
+    "medium": "100-day-project",
+    "dimensions": "Variable",
+    "description": "A piece from the 100 Day Project collection.",
+    "collection": "100-day-project",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/A32C8B6B-CAE1-45D7-BB54-42F769FE9B6E_1_201_a.jpg?lossy=1&strip=1&webp=1",
+        "alt": "100 Day Project"
+      }
+    ],
+    "availability": "on-hold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "100-day-project"
+    ]
+  },
+  {
+    "id": "175",
+    "slug": "100-day-project-art-9",
+    "title": "100 Day Project Artwork 9",
+    "year": 2024,
+    "medium": "100-day-project",
+    "dimensions": "Variable",
+    "description": "A piece from the 100 Day Project collection.",
+    "collection": "100-day-project",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/0955EB0A-B099-49F3-8077-6AC416E787B8_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "100 Day Project"
+      }
+    ],
+    "availability": "sold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "100-day-project"
+    ]
+  },
+  {
+    "id": "176",
+    "slug": "100-day-project-art-10",
+    "title": "100 Day Project Artwork 10",
+    "year": 2024,
+    "medium": "100-day-project",
+    "dimensions": "Variable",
+    "description": "A piece from the 100 Day Project collection.",
+    "collection": "100-day-project",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/197CB3C1-BDA9-4193-9E04-ACBF0663CF3A_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "100 Day Project"
+      }
+    ],
+    "availability": "on-hold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "100-day-project"
+    ]
+  },
+  {
+    "id": "177",
+    "slug": "100-day-project-art-11",
+    "title": "100 Day Project Artwork 11",
+    "year": 2024,
+    "medium": "100-day-project",
+    "dimensions": "Variable",
+    "description": "A piece from the 100 Day Project collection.",
+    "collection": "100-day-project",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/8BEA3F09-9263-4D0A-9C66-E9421F5F1283_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "100 Day Project"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "100-day-project"
+    ]
+  },
+  {
+    "id": "178",
+    "slug": "100-day-project-art-12",
+    "title": "100 Day Project Artwork 12",
+    "year": 2024,
+    "medium": "100-day-project",
+    "dimensions": "Variable",
+    "description": "A piece from the 100 Day Project collection.",
+    "collection": "100-day-project",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/8BB27849-962C-49F9-9FA3-976FFD01D45A_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "100 Day Project"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "100-day-project"
+    ]
+  },
+  {
+    "id": "179",
+    "slug": "100-day-project-art-13",
+    "title": "100 Day Project Artwork 13",
+    "year": 2024,
+    "medium": "100-day-project",
+    "dimensions": "Variable",
+    "description": "A piece from the 100 Day Project collection.",
+    "collection": "100-day-project",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/5C2C388F-0411-467B-875F-504BC30403DD_1_105_c.jpg?lossy=1&strip=1&webp=1",
+        "alt": "100 Day Project"
+      }
+    ],
+    "availability": "sold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "100-day-project"
+    ]
+  },
+  {
+    "id": "180",
+    "slug": "book-illustrations-art-1",
+    "title": "Book Illustrations Artwork 1",
+    "year": 2024,
+    "medium": "book-illustrations",
+    "dimensions": "Variable",
+    "description": "A piece from the Book Illustrations collection.",
+    "collection": "book-illustrations",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2019/07/btmw-Chapter800x1016.jpeg?lossy=1&strip=1&webp=1",
+        "alt": "Book Illustrations"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "book-illustrations"
+    ]
+  },
+  {
+    "id": "181",
+    "slug": "book-illustrations-art-2",
+    "title": "Book Illustrations Artwork 2",
+    "year": 2024,
+    "medium": "book-illustrations",
+    "dimensions": "Variable",
+    "description": "A piece from the Book Illustrations collection.",
+    "collection": "book-illustrations",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2019/07/btmw-Chapter_800x1061.jpeg?lossy=1&strip=1&webp=1",
+        "alt": "Book Illustrations"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "book-illustrations"
+    ]
+  },
+  {
+    "id": "182",
+    "slug": "book-illustrations-art-3",
+    "title": "Book Illustrations Artwork 3",
+    "year": 2024,
+    "medium": "book-illustrations",
+    "dimensions": "Variable",
+    "description": "A piece from the Book Illustrations collection.",
+    "collection": "book-illustrations",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2019/07/btmw-Chapter_800x1048.png?lossy=1&strip=1&webp=1",
+        "alt": "Book Illustrations"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "book-illustrations"
+    ]
+  },
+  {
+    "id": "183",
+    "slug": "book-illustrations-art-4",
+    "title": "Book Illustrations Artwork 4",
+    "year": 2024,
+    "medium": "book-illustrations",
+    "dimensions": "Variable",
+    "description": "A piece from the Book Illustrations collection.",
+    "collection": "book-illustrations",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2019/07/btmw-Chapter_800x1030.jpeg?lossy=1&strip=1&webp=1",
+        "alt": "Book Illustrations"
+      }
+    ],
+    "availability": "on-hold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "book-illustrations"
+    ]
+  },
+  {
+    "id": "184",
+    "slug": "book-illustrations-art-5",
+    "title": "Book Illustrations Artwork 5",
+    "year": 2024,
+    "medium": "book-illustrations",
+    "dimensions": "Variable",
+    "description": "A piece from the Book Illustrations collection.",
+    "collection": "book-illustrations",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2019/07/btmw-Chapter_800x1026.png?lossy=1&strip=1&webp=1",
+        "alt": "Book Illustrations"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "book-illustrations"
+    ]
+  },
+  {
+    "id": "185",
+    "slug": "book-illustrations-art-6",
+    "title": "Book Illustrations Artwork 6",
+    "year": 2024,
+    "medium": "book-illustrations",
+    "dimensions": "Variable",
+    "description": "A piece from the Book Illustrations collection.",
+    "collection": "book-illustrations",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2019/07/btmw-Chapter_800x1025-e1648409923998.jpeg?lossy=1&strip=1&webp=1",
+        "alt": "Book Illustrations"
+      }
+    ],
+    "availability": "on-hold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "book-illustrations"
+    ]
+  },
+  {
+    "id": "186",
+    "slug": "book-illustrations-art-7",
+    "title": "Book Illustrations Artwork 7",
+    "year": 2024,
+    "medium": "book-illustrations",
+    "dimensions": "Variable",
+    "description": "A piece from the Book Illustrations collection.",
+    "collection": "book-illustrations",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2019/07/btmw-Chapter_800x1023.png?lossy=1&strip=1&webp=1",
+        "alt": "Book Illustrations"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "book-illustrations"
+    ]
+  },
+  {
+    "id": "187",
+    "slug": "book-illustrations-art-8",
+    "title": "Book Illustrations Artwork 8",
+    "year": 2024,
+    "medium": "book-illustrations",
+    "dimensions": "Variable",
+    "description": "A piece from the Book Illustrations collection.",
+    "collection": "book-illustrations",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2019/07/btmw-Chapter_800x1016.png?lossy=1&strip=1&webp=1",
+        "alt": "Book Illustrations"
+      }
+    ],
+    "availability": "on-hold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "book-illustrations"
+    ]
+  },
+  {
+    "id": "188",
+    "slug": "book-illustrations-art-9",
+    "title": "Book Illustrations Artwork 9",
+    "year": 2024,
+    "medium": "book-illustrations",
+    "dimensions": "Variable",
+    "description": "A piece from the Book Illustrations collection.",
+    "collection": "book-illustrations",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2019/07/btmw-Chapter_800x991.png?lossy=1&strip=1&webp=1",
+        "alt": "Book Illustrations"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "book-illustrations"
+    ]
+  },
+  {
+    "id": "189",
+    "slug": "book-illustrations-art-10",
+    "title": "Book Illustrations Artwork 10",
+    "year": 2024,
+    "medium": "book-illustrations",
+    "dimensions": "Variable",
+    "description": "A piece from the Book Illustrations collection.",
+    "collection": "book-illustrations",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2019/07/BTMW_1_800x609.png?lossy=1&strip=1&webp=1",
+        "alt": "Book Illustrations"
+      }
+    ],
+    "availability": "not-for-sale",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "book-illustrations"
+    ]
+  },
+  {
+    "id": "190",
+    "slug": "book-illustrations-art-11",
+    "title": "Book Illustrations Artwork 11",
+    "year": 2024,
+    "medium": "book-illustrations",
+    "dimensions": "Variable",
+    "description": "A piece from the Book Illustrations collection.",
+    "collection": "book-illustrations",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2019/07/chapter_12_main_800x989.png?lossy=1&strip=1&webp=1",
+        "alt": "Book Illustrations"
+      }
+    ],
+    "availability": "on-hold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "book-illustrations"
+    ]
+  },
+  {
+    "id": "191",
+    "slug": "book-covers-art-1",
+    "title": "Book Covers Artwork 1",
+    "year": 2024,
+    "medium": "book-covers",
+    "dimensions": "Variable",
+    "description": "A piece from the Book Covers collection.",
+    "collection": "book-covers",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2019/07/IWO-BookCover_Front-Less-than-100-KB.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Book Covers"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "book-covers"
+    ]
+  },
+  {
+    "id": "192",
+    "slug": "book-covers-art-2",
+    "title": "Book Covers Artwork 2",
+    "year": 2024,
+    "medium": "book-covers",
+    "dimensions": "Variable",
+    "description": "A piece from the Book Covers collection.",
+    "collection": "book-covers",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2020/11/2120-bookcover-final-web.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Book Covers"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "book-covers"
+    ]
+  },
+  {
+    "id": "193",
+    "slug": "book-covers-art-3",
+    "title": "Book Covers Artwork 3",
+    "year": 2024,
+    "medium": "book-covers",
+    "dimensions": "Variable",
+    "description": "A piece from the Book Covers collection.",
+    "collection": "book-covers",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2019/07/RTE.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Book Covers"
+      }
+    ],
+    "availability": "on-hold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "book-covers"
+    ]
+  },
+  {
+    "id": "194",
+    "slug": "book-covers-art-4",
+    "title": "Book Covers Artwork 4",
+    "year": 2024,
+    "medium": "book-covers",
+    "dimensions": "Variable",
+    "description": "A piece from the Book Covers collection.",
+    "collection": "book-covers",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2019/07/BTMW.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Book Covers"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "book-covers"
+    ]
+  },
+  {
+    "id": "195",
+    "slug": "book-covers-art-5",
+    "title": "Book Covers Artwork 5",
+    "year": 2024,
+    "medium": "book-covers",
+    "dimensions": "Variable",
+    "description": "A piece from the Book Covers collection.",
+    "collection": "book-covers",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2020/02/Divided_states_of_america-ddd-e1582655859763.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Book Covers"
+      }
+    ],
+    "availability": "not-for-sale",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "book-covers"
+    ]
+  },
+  {
+    "id": "196",
+    "slug": "wanderlust-art-1",
+    "title": "Wanderlust Artwork 1",
+    "year": 2024,
+    "medium": "wanderlust",
+    "dimensions": "Variable",
+    "description": "A piece from the Wanderlust collection.",
+    "collection": "wanderlust",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2025/09/IMG_8275.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Wanderlust"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "wanderlust"
+    ]
+  },
+  {
+    "id": "197",
+    "slug": "wanderlust-art-2",
+    "title": "Wanderlust Artwork 2",
+    "year": 2024,
+    "medium": "wanderlust",
+    "dimensions": "Variable",
+    "description": "A piece from the Wanderlust collection.",
+    "collection": "wanderlust",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2025/09/IMG_8274.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Wanderlust"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "wanderlust"
+    ]
+  },
+  {
+    "id": "198",
+    "slug": "wanderlust-art-3",
+    "title": "Wanderlust Artwork 3",
+    "year": 2024,
+    "medium": "wanderlust",
+    "dimensions": "Variable",
+    "description": "A piece from the Wanderlust collection.",
+    "collection": "wanderlust",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2025/09/IMG_8273.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Wanderlust"
+      }
+    ],
+    "availability": "on-hold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "wanderlust"
+    ]
+  },
+  {
+    "id": "199",
+    "slug": "wanderlust-art-4",
+    "title": "Wanderlust Artwork 4",
+    "year": 2024,
+    "medium": "wanderlust",
+    "dimensions": "Variable",
+    "description": "A piece from the Wanderlust collection.",
+    "collection": "wanderlust",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2025/09/IMG_8271.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Wanderlust"
+      }
+    ],
+    "availability": "on-hold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "wanderlust"
+    ]
+  },
+  {
+    "id": "200",
+    "slug": "wanderlust-art-5",
+    "title": "Wanderlust Artwork 5",
+    "year": 2024,
+    "medium": "wanderlust",
+    "dimensions": "Variable",
+    "description": "A piece from the Wanderlust collection.",
+    "collection": "wanderlust",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2025/09/IMG_8270.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Wanderlust"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "wanderlust"
+    ]
+  },
+  {
+    "id": "201",
+    "slug": "wanderlust-art-6",
+    "title": "Wanderlust Artwork 6",
+    "year": 2024,
+    "medium": "wanderlust",
+    "dimensions": "Variable",
+    "description": "A piece from the Wanderlust collection.",
+    "collection": "wanderlust",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2025/09/IMG_8269.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Wanderlust"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "wanderlust"
+    ]
+  },
+  {
+    "id": "202",
+    "slug": "wanderlust-art-7",
+    "title": "Wanderlust Artwork 7",
+    "year": 2024,
+    "medium": "wanderlust",
+    "dimensions": "Variable",
+    "description": "A piece from the Wanderlust collection.",
+    "collection": "wanderlust",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2025/09/IMG_8268.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Wanderlust"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "wanderlust"
+    ]
+  },
+  {
+    "id": "203",
+    "slug": "wanderlust-art-8",
+    "title": "Wanderlust Artwork 8",
+    "year": 2024,
+    "medium": "wanderlust",
+    "dimensions": "Variable",
+    "description": "A piece from the Wanderlust collection.",
+    "collection": "wanderlust",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2025/09/IMG_8266.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Wanderlust"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "wanderlust"
+    ]
+  },
+  {
+    "id": "204",
+    "slug": "wanderlust-art-9",
+    "title": "Wanderlust Artwork 9",
+    "year": 2024,
+    "medium": "wanderlust",
+    "dimensions": "Variable",
+    "description": "A piece from the Wanderlust collection.",
+    "collection": "wanderlust",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2025/09/IMG_8265.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Wanderlust"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "wanderlust"
+    ]
+  },
+  {
+    "id": "205",
+    "slug": "wanderlust-art-10",
+    "title": "Wanderlust Artwork 10",
+    "year": 2024,
+    "medium": "wanderlust",
+    "dimensions": "Variable",
+    "description": "A piece from the Wanderlust collection.",
+    "collection": "wanderlust",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2025/09/IMG_8264.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Wanderlust"
+      }
+    ],
+    "availability": "on-hold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "wanderlust"
+    ]
+  },
+  {
+    "id": "206",
+    "slug": "wanderlust-art-11",
+    "title": "Wanderlust Artwork 11",
+    "year": 2024,
+    "medium": "wanderlust",
+    "dimensions": "Variable",
+    "description": "A piece from the Wanderlust collection.",
+    "collection": "wanderlust",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2025/09/IMG_8263.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Wanderlust"
+      }
+    ],
+    "availability": "not-for-sale",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "wanderlust"
+    ]
+  },
+  {
+    "id": "207",
+    "slug": "wanderlust-art-12",
+    "title": "Wanderlust Artwork 12",
+    "year": 2024,
+    "medium": "wanderlust",
+    "dimensions": "Variable",
+    "description": "A piece from the Wanderlust collection.",
+    "collection": "wanderlust",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2025/09/IMG_8262.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Wanderlust"
+      }
+    ],
+    "availability": "sold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "wanderlust"
+    ]
+  },
+  {
+    "id": "208",
+    "slug": "wanderlust-art-13",
+    "title": "Wanderlust Artwork 13",
+    "year": 2024,
+    "medium": "wanderlust",
+    "dimensions": "Variable",
+    "description": "A piece from the Wanderlust collection.",
+    "collection": "wanderlust",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2025/09/IMG_8261.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Wanderlust"
+      }
+    ],
+    "availability": "on-hold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "wanderlust"
+    ]
+  },
+  {
+    "id": "209",
+    "slug": "wanderlust-art-14",
+    "title": "Wanderlust Artwork 14",
+    "year": 2024,
+    "medium": "wanderlust",
+    "dimensions": "Variable",
+    "description": "A piece from the Wanderlust collection.",
+    "collection": "wanderlust",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2025/09/IMG_8260.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Wanderlust"
+      }
+    ],
+    "availability": "on-hold",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "wanderlust"
+    ]
+  },
+  {
+    "id": "210",
+    "slug": "wanderlust-art-15",
+    "title": "Wanderlust Artwork 15",
+    "year": 2024,
+    "medium": "wanderlust",
+    "dimensions": "Variable",
+    "description": "A piece from the Wanderlust collection.",
+    "collection": "wanderlust",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2025/09/IMG_8259.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Wanderlust"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "wanderlust"
+    ]
+  },
+  {
+    "id": "211",
+    "slug": "wanderlust-art-16",
+    "title": "Wanderlust Artwork 16",
+    "year": 2024,
+    "medium": "wanderlust",
+    "dimensions": "Variable",
+    "description": "A piece from the Wanderlust collection.",
+    "collection": "wanderlust",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2025/09/IMG_8256.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Wanderlust"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "wanderlust"
+    ]
+  },
+  {
+    "id": "212",
+    "slug": "wanderlust-art-17",
+    "title": "Wanderlust Artwork 17",
+    "year": 2024,
+    "medium": "wanderlust",
+    "dimensions": "Variable",
+    "description": "A piece from the Wanderlust collection.",
+    "collection": "wanderlust",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2025/09/IMG_8255.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Wanderlust"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "wanderlust"
+    ]
+  },
+  {
+    "id": "213",
+    "slug": "wanderlust-art-18",
+    "title": "Wanderlust Artwork 18",
+    "year": 2024,
+    "medium": "wanderlust",
+    "dimensions": "Variable",
+    "description": "A piece from the Wanderlust collection.",
+    "collection": "wanderlust",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2025/09/IMG_8254.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Wanderlust"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "wanderlust"
+    ]
+  },
+  {
+    "id": "214",
+    "slug": "wanderlust-art-19",
+    "title": "Wanderlust Artwork 19",
+    "year": 2024,
+    "medium": "wanderlust",
+    "dimensions": "Variable",
+    "description": "A piece from the Wanderlust collection.",
+    "collection": "wanderlust",
+    "images": [
+      {
+        "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2025/09/IMG_8253.jpg?lossy=1&strip=1&webp=1",
+        "alt": "Wanderlust"
+      }
+    ],
+    "availability": "available",
+    "price": "Contact for pricing",
+    "featured": true,
+    "tags": [
+      "wanderlust"
+    ]
+  }
+]
