@@ -1,20 +1,30 @@
 [
     {
+        "year": "2026",
+        "title": "First Place - Mixed Media Category",
+        "organization": "Annual Regional Art Exhibition",
+        "description": "Awarded for the artwork \"Echoes of Time\".",
+        "thumbnail": "/awards/echoes-of-time.jpg"
+    },
+    {
         "year": "2024",
         "title": "First Place - Mixed Media Category",
         "organization": "Annual Regional Art Exhibition",
-        "description": "Awarded for the artwork \"Echoes of Time\"."
+        "description": "Awarded for the artwork \"Echoes of Time\".",
+        "thumbnail": "/awards/echoes-of-time-2024.jpg"
     },
     {
         "year": "2023",
         "title": "Honorable Mention",
         "organization": "National Society of Painters",
-        "description": "Recognized for outstanding contribution to contemporary landscape painting."
+        "description": "Recognized for outstanding contribution to contemporary landscape painting.",
+        "thumbnail": "/awards/honorable-mention-2023.jpg"
     },
     {
         "year": "2021",
         "title": "Emerging Artist Grant",
         "organization": "City Arts Council",
-        "description": "Recipient of the annual grant supporting promising local talent."
+        "description": "Recipient of the annual grant supporting promising local talent.",
+        "thumbnail": "/awards/emerging-artist-2021.jpg"
     }
 ]

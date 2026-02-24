@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { promises as fs } from 'fs';
 import path from 'path';
+import Image from 'next/image';
 
 export const metadata: Metadata = {
     title: 'Awards | Darshini Aithal',
@@ -39,11 +40,18 @@ export default async function AwardsPage() {
                             <div className="md:w-1/4 font-medium text-muted-foreground">
                                 {award.year}
                             </div>
-                            <div className="md:w-3/4">
+                            <div className="flex-1">
                                 <h3 className="text-xl font-semibold mb-2">{award.title}</h3>
                                 <p className="text-muted-foreground mb-1">{award.organization}</p>
                                 <p className="text-sm">{award.description}</p>
                             </div>
+                            {award.thumbnail && (
+                                <div className="mt-4 md:mt-0 md:w-32 lg:w-48 shrink-0">
+                                    <div className="relative aspect-square w-full overflow-hidden rounded bg-muted">
+                                        <Image src={award.thumbnail} alt={award.title} fill className="object-cover" />
+                                    </div>
+                                </div>
+                            )}
                         </div>
                     ))}
                 </div>
