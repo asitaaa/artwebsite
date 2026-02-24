@@ -4,12 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 
-async function getArtwork(slug: string) {
-    const filePath = path.join(process.cwd(), "content/artworks.json");
-    const data = await fs.readFile(filePath, "utf8");
-    const artworks = JSON.parse(data);
-    return artworks.find((a: any) => a.slug === slug);
-}
+import { getArtwork } from "../../lib/artworks";
 
 export default async function ArtworkPage({ params }: { params: Promise<{ slug: string }> }) {
     const { slug } = await params;

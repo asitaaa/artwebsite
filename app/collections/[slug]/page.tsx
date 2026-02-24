@@ -11,10 +11,10 @@ async function getCollection(slug: string) {
     return collections.find((c: any) => c.slug === slug);
 }
 
+import { getAllArtworks } from "../../lib/artworks";
+
 async function getCollectionArtworks(collectionSlug: string) {
-    const filePath = path.join(process.cwd(), "content/artworks.json");
-    const data = await fs.readFile(filePath, "utf8");
-    const artworks = JSON.parse(data);
+    const artworks = await getAllArtworks();
     return artworks.filter((a: any) => a.collection === collectionSlug);
 }
 

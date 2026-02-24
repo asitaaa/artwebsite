@@ -16,11 +16,11 @@ async function getMedium(slug: string) {
     }
 }
 
+import { getAllArtworks } from "../../lib/artworks";
+
 async function getArtworks(mediumSlug: string) {
-    const filePath = path.join(process.cwd(), "content/artworks.json");
     try {
-        const data = await fs.readFile(filePath, "utf8");
-        const artworks = JSON.parse(data);
+        const artworks = await getAllArtworks();
         return artworks.filter((art: any) => art.medium === mediumSlug || art.collection === mediumSlug || art.tags.includes(mediumSlug));
     } catch (e) {
         return [];
