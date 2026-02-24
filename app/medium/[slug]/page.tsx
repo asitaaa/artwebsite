@@ -85,8 +85,8 @@ export default async function MediumPage({
                             key={option.id}
                             href={`/medium/${resolvedParams.slug}${option.id === 'all' ? '' : `?status=${option.id}`}`}
                             className={`px-4 py-2 text-sm rounded-full transition-colors ${statusFilter === option.id
-                                    ? "bg-foreground text-background"
-                                    : "bg-muted text-foreground hover:bg-muted/80"
+                                ? "bg-foreground text-background"
+                                : "bg-muted text-foreground hover:bg-muted/80"
                                 }`}
                         >
                             {option.label}
@@ -96,7 +96,7 @@ export default async function MediumPage({
             </header>
 
             {filteredArtworks.length > 0 ? (
-                <div className="columns-1 sm:columns-2 md:columns-3 lg:columns-4 gap-8">
+                <div className="columns-2 md:columns-3 lg:columns-4 gap-4 md:gap-8">
                     {filteredArtworks.map((artwork: any) => (
                         <div key={artwork.id} className="break-inside-avoid">
                             <MasonryCard artwork={artwork} />

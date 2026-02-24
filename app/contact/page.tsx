@@ -1,3 +1,4 @@
+import { Suspense } from "react";
 import ContactForm from "../components/ContactForm";
 
 export default function ContactPage() {
@@ -9,7 +10,9 @@ export default function ContactPage() {
                     For studio visits, purchasing inquiries, or press, please reach out via the form below.
                 </p>
             </div>
-            <ContactForm />
+            <Suspense fallback={<div className="text-center py-12 text-muted-foreground">Loading form...</div>}>
+                <ContactForm />
+            </Suspense>
         </main>
     );
 }

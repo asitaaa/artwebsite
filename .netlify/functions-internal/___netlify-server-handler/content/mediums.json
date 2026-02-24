@@ -1,0 +1,112 @@
+[
+  {
+    "id": "other-media",
+    "slug": "other-media",
+    "name": "Other Media",
+    "description": "A lovely piece of Other Media.",
+    "coverImage": {
+      "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/Other-Media.jpeg?lossy=1&strip=1&webp=1",
+      "alt": "Other Media"
+    }
+  },
+  {
+    "id": "oils-and-acrylics",
+    "slug": "oils-and-acrylics",
+    "name": "Oils and Acrylics",
+    "description": "A lovely piece of Oils and Acrylics.",
+    "coverImage": {
+      "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/acrylic-painting.jpg?lossy=1&strip=1&webp=1",
+      "alt": "Oils and Acrylics"
+    }
+  },
+  {
+    "id": "calligraphy",
+    "slug": "calligraphy",
+    "name": "Calligraphy",
+    "description": "A lovely piece of Calligraphy.",
+    "coverImage": {
+      "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/calligraphy.jpg?lossy=1&strip=1&webp=1",
+      "alt": "Calligraphy"
+    }
+  },
+  {
+    "id": "water-colors",
+    "slug": "water-colors",
+    "name": "Water Colors",
+    "description": "A lovely piece of Water Colors.",
+    "coverImage": {
+      "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2021/11/rotated_Page_02-scaled-e1637518981151.jpg?lossy=1&strip=1&webp=1",
+      "alt": "Water Colors"
+    }
+  },
+  {
+    "id": "sketching",
+    "slug": "sketching",
+    "name": "Sketching",
+    "description": "A lovely piece of Sketching.",
+    "coverImage": {
+      "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/sketching.jpg?lossy=1&strip=1&webp=1",
+      "alt": "Sketching"
+    }
+  },
+  {
+    "id": "pastels",
+    "slug": "pastels",
+    "name": "Pastels",
+    "description": "A lovely piece of Pastels.",
+    "coverImage": {
+      "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/pastels.jpg?lossy=1&strip=1&webp=1",
+      "alt": "Pastels"
+    }
+  },
+  {
+    "id": "color-pencils",
+    "slug": "color-pencils",
+    "name": "Color Pencils",
+    "description": "A lovely piece of Color Pencils.",
+    "coverImage": {
+      "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/fabric-box-1.jpg?lossy=1&strip=1&webp=1",
+      "alt": "Color Pencils"
+    }
+  },
+  {
+    "id": "100-day-project",
+    "slug": "100-day-project",
+    "name": "100 Day Project",
+    "description": "A lovely piece of 100 Day Project.",
+    "coverImage": {
+      "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2022/03/100-day-project.jpg?lossy=1&strip=1&webp=1",
+      "alt": "100 Day Project"
+    }
+  },
+  {
+    "id": "book-covers",
+    "slug": "book-covers",
+    "name": "Book Covers",
+    "description": "A lovely piece of Book Covers.",
+    "coverImage": {
+      "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2019/07/BTMW.jpg?lossy=1&strip=1&webp=1",
+      "alt": "Book Covers"
+    }
+  },
+  {
+    "id": "book-illustrations",
+    "slug": "book-illustrations",
+    "name": "Book Illustrations",
+    "description": "A lovely piece of Book Illustrations.",
+    "coverImage": {
+      "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2019/07/btmw-Chapter_800x1025-e1648409923998.jpeg?lossy=1&strip=1&webp=1",
+      "alt": "Book Illustrations"
+    }
+  },
+  {
+    "id": "wanderlust",
+    "slug": "wanderlust",
+    "name": "Wanderlust",
+    "description": "A lovely piece of Wanderlust.",
+    "coverImage": {
+      "url": "https://b1398070.smushcdn.com/1398070/wp-content/uploads/2025/09/IMG_8254-1.jpg?lossy=1&strip=1&webp=1",
+      "alt": "Wanderlust"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/api/contact/route": "/api/contact",
+  "/artwork/[slug]/page": "/artwork/[slug]",
+  "/awards/page": "/awards",
+  "/collections/[slug]/page": "/collections/[slug]",
+  "/contact/page": "/contact",
+  "/exhibitions/[slug]/page": "/exhibitions/[slug]",
+  "/exhibitions/page": "/exhibitions",
+  "/favicon.ico/route": "/favicon.ico",
+  "/medium/[slug]/page": "/medium/[slug]",
+  "/page": "/",
+  "/sitemap.xml/route": "/sitemap.xml"
+}
