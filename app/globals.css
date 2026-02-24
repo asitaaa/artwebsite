@@ -48,24 +48,28 @@ input[type="reset"] {
   transition: background-color 0.2s ease, transform 0.1s ease;
 }
 
-button:hover,
-.btn:hover,
-a[role="button"]:hover,
+button:not(.filter-btn):hover,
+.btn:not(.filter-btn):hover,
+a[role="button"]:not(.filter-btn):hover,
 input[type="submit"]:hover,
 input[type="button"]:hover,
 input[type="reset"]:hover {
-  background-color: #222222; /* slightly light black */
-  color: #ffffff; /* Ensure text is readable */
+  background-color: #404040;
+  /* lighter black */
+  color: #ffffff;
+  /* Ensure text is readable */
 }
 
 @media (prefers-color-scheme: dark) {
-  button:hover,
-  .btn:hover,
-  a[role="button"]:hover,
+
+  button:not(.filter-btn):hover,
+  .btn:not(.filter-btn):hover,
+  a[role="button"]:not(.filter-btn):hover,
   input[type="submit"]:hover,
   input[type="button"]:hover,
   input[type="reset"]:hover {
-    background-color: #333333; /* slightly lighter black for dark mode */
+    background-color: #4a4a4a;
+    /* lighter black for dark mode */
   }
 }
 

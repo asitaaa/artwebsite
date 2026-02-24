@@ -49,7 +49,7 @@ export default function FilterBar() {
                 <div className="flex flex-wrap gap-3">
                     <button
                         onClick={() => handleFilterChange("medium", "")}
-                        className={`px-4 py-2 text-sm rounded-full transition-colors ${currentMedium === ""
+                        className={`filter-btn px-4 py-2 text-sm rounded-full transition-colors ${currentMedium === ""
                             ? "bg-foreground text-background"
                             : "bg-muted text-foreground hover:bg-muted/80"
                             }`}
@@ -60,7 +60,7 @@ export default function FilterBar() {
                         <button
                             key={medium.id}
                             onClick={() => handleFilterChange("medium", medium.id)}
-                            className={`px-4 py-2 text-sm rounded-full transition-colors ${currentMedium === medium.id
+                            className={`filter-btn px-4 py-2 text-sm rounded-full transition-colors ${currentMedium === medium.id
                                 ? "bg-foreground text-background"
                                 : "bg-muted text-foreground hover:bg-muted/80"
                                 }`}
