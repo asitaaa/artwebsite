@@ -14,6 +14,9 @@ export default function Navbar() {
                     <Image src="/logo.png" alt="Darshini.art" width={150} height={40} priority className="object-contain" />
                 </Link>
                 <nav className="hidden md:flex items-center gap-6 text-sm font-medium text-muted-foreground">
+                    <Link href="/" className="hover:text-foreground transition-colors" aria-label="Home">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-home"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" /><polyline points="9 22 9 12 15 12 15 22" /></svg>
+                    </Link>
                     <Link href="/about" className="hover:text-foreground hover:underline hover:decoration-red-500 hover:underline-offset-[6px] transition-all">About</Link>
                     <Link href="/awards" className="hover:text-foreground hover:underline hover:decoration-red-500 hover:underline-offset-[6px] transition-all">Awards</Link>
                     <Link href="/contact" className="hover:text-foreground hover:underline hover:decoration-red-500 hover:underline-offset-[6px] transition-all">Contact</Link>
@@ -35,6 +38,10 @@ export default function Navbar() {
             {isMenuOpen && (
                 <div className="md:hidden border-t border-border bg-background absolute w-full left-0 shadow-lg">
                     <nav className="flex flex-col px-6 py-6 gap-6 text-base font-medium text-muted-foreground">
+                        <Link href="/" className="hover:text-foreground transition-colors flex items-center gap-2" onClick={() => setIsMenuOpen(false)} aria-label="Home">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-home"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" /><polyline points="9 22 9 12 15 12 15 22" /></svg>
+                            <span>Home</span>
+                        </Link>
                         <Link href="/about" className="hover:text-foreground hover:underline hover:decoration-red-500 hover:underline-offset-[6px] transition-all" onClick={() => setIsMenuOpen(false)}>About</Link>
                         <Link href="/awards" className="hover:text-foreground hover:underline hover:decoration-red-500 hover:underline-offset-[6px] transition-all" onClick={() => setIsMenuOpen(false)}>Awards</Link>
                         <Link href="/contact" className="hover:text-foreground hover:underline hover:decoration-red-500 hover:underline-offset-[6px] transition-all" onClick={() => setIsMenuOpen(false)}>Contact</Link>
