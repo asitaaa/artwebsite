@@ -42,10 +42,13 @@ export default async function ArtworkPage({ params }: { params: Promise<{ slug: 
                 <div className="space-y-6 sticky top-24">
                     <div>
                         <h1 className="text-4xl font-bold mb-2">{artwork.title}</h1>
-                        <p className="text-xl text-muted-foreground">
-                            {artwork.year} &mdash; {artwork.medium}
-                        </p>
                     </div>
+
+                    {artwork.description && (
+                        <div className="text-foreground/90 leading-relaxed mb-6">
+                            <p>{artwork.description}</p>
+                        </div>
+                    )}
 
                     <div className="space-y-1 text-sm">
                         <p><span className="font-medium">Dimensions:</span> {artwork.dimensions}</p>

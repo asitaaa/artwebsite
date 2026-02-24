@@ -16,8 +16,7 @@
   --color-border: var(--border);
   --color-muted: var(--muted);
   --color-muted-foreground: var(--muted-foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: var(--font-poppins);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -37,4 +36,44 @@ body {
   font-family: var(--font-sans), Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+/* Global button styles for hover and click scaling */
+button,
+.btn,
+a[role="button"],
+input[type="submit"],
+input[type="button"],
+input[type="reset"] {
+  transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+button:hover,
+.btn:hover,
+a[role="button"]:hover,
+input[type="submit"]:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover {
+  background-color: #222222; /* slightly light black */
+  color: #ffffff; /* Ensure text is readable */
+}
+
+@media (prefers-color-scheme: dark) {
+  button:hover,
+  .btn:hover,
+  a[role="button"]:hover,
+  input[type="submit"]:hover,
+  input[type="button"]:hover,
+  input[type="reset"]:hover {
+    background-color: #333333; /* slightly lighter black for dark mode */
+  }
+}
+
+button:active,
+.btn:active,
+a[role="button"]:active,
+input[type="submit"]:active,
+input[type="button"]:active,
+input[type="reset"]:active {
+  transform: scale(0.95);
 }

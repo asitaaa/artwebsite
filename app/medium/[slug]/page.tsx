@@ -86,7 +86,7 @@ export default async function MediumPage({
                             href={`/medium/${resolvedParams.slug}${option.id === 'all' ? '' : `?status=${option.id}`}`}
                             className={`px-4 py-2 text-sm rounded-full transition-colors ${statusFilter === option.id
                                 ? "bg-foreground text-background"
-                                : "bg-muted text-foreground hover:bg-muted/80"
+                                : "bg-muted text-foreground hover:bg-foreground/10"
                                 }`}
                         >
                             {option.label}
